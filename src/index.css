@@ -44,6 +44,7 @@ code {
   position: absolute;
   right: 35%;
   top: 25%;
+  cursor: pointer;
 }
 
 .list{
@@ -129,7 +130,8 @@ code {
   font-size: small;
   justify-content: space-between;
   height: 30px;   
-  align-items: center;                     
+  align-items: center;
+  cursor: pointer;
 }
 
 .items{
