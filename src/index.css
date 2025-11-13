@@ -75,6 +75,7 @@ code {
   border:2px;
   border-color:hsl(233, 14%, 35%);
   accent-color:blue;
+  cursor: pointer;
 }
 
 .previous{
