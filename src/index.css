@@ -14,7 +14,7 @@ code {
     monospace;
 }
 
-span{
+.list span{
   cursor: pointer
 }
 
